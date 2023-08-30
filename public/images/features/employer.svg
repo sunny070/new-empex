@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectangle_10209" data-name="Rectangle 10209" transform="translate(1400 1768)" style="stroke:#707070;fill:#fff" d="M0 0h120v120H0z"/>
+        </clipPath>
+        <style>
+            .cls-3{fill:#fff}
+        </style>
+    </defs>
+    <g id="Mask_Group_92" data-name="Mask Group 92" transform="translate(-1400 -1768)" style="clip-path:url(#clip-path)">
+        <g id="employer" transform="translate(1399.216 1767.096)">
+            <path id="Path_1656" data-name="Path 1656" class="cls-3" d="M113.126 120H8.442a7.669 7.669 0 0 1-7.658-7.658V9.467a7.669 7.669 0 0 1 7.658-7.658h104.684a7.669 7.669 0 0 1 7.658 7.658v102.875a7.669 7.669 0 0 1-7.658 7.658zM8.442 6.633a2.831 2.831 0 0 0-2.834 2.834v102.875a2.831 2.831 0 0 0 2.834 2.834h104.684a2.831 2.831 0 0 0 2.834-2.834V9.467a2.831 2.831 0 0 0-2.834-2.834z"/>
+            <path id="Path_1657" data-name="Path 1657" class="cls-3" d="M60.784 56.02a21.075 21.075 0 1 1 21.045-21.105A21.064 21.064 0 0 1 60.784 56.02zm0-36.121A15.045 15.045 0 1 0 75.8 34.975 15.029 15.029 0 0 0 60.784 19.9z"/>
+            <path id="Path_1658" data-name="Path 1658" class="cls-3" d="M72.362 59.7H49.809a32.233 32.233 0 0 0-32.2 32.2v7.236h6.03V91.9a26.186 26.186 0 0 1 26.17-26.171h22.553A26.224 26.224 0 0 1 98.533 91.9v7.236h6.03V91.9a32.272 32.272 0 0 0-32.201-32.2z"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectangle_10133" data-name="Rectangle 10133" transform="translate(360 1170)" style="stroke:#707070;fill:#404040" d="M0 0h70v70H0z"/>
+        </clipPath>
+        <style>
+            .cls-3{fill:#404040}.cls-4,.cls-5{fill:none;stroke:#404040;stroke-miterlimit:10;stroke-width:2.256px}.cls-5{stroke-linecap:round}
+        </style>
+    </defs>
+    <g id="Mask_Group_83" data-name="Mask Group 83" transform="translate(-360 -1170)" style="clip-path:url(#clip-path)">
+        <g id="user" transform="translate(365.81 1145.992)">
+            <path id="Path_1542" data-name="Path 1542" class="cls-3" d="M29.19 60.5a17.133 17.133 0 1 1 17.134-17.138A17.152 17.152 0 0 1 29.19 60.5zm0-32.01a14.877 14.877 0 1 0 14.877 14.872A14.889 14.889 0 0 0 29.19 28.485z"/>
+            <path id="Path_1543" data-name="Path 1543" class="cls-3" d="M64.19 91.787h-2.3A33.322 33.322 0 0 0 51.16 73.1l1.17-1.988a34.734 34.734 0 0 1 2 1.861 35.138 35.138 0 0 1 9.86 18.814z"/>
+            <path id="Path_1544" data-name="Path 1544" class="cls-3" d="m44.6 66.037-1.156 1.974a33 33 0 0 0-14.243-3.2A33.339 33.339 0 0 0-3.511 91.787h-2.3A35.6 35.6 0 0 1 44.6 66.037z"/>
+            <g id="Group_968" data-name="Group 968">
+                <path id="Path_1545" data-name="Path 1545" class="cls-4" d="m62.272 54.234-.705 1.2L52.331 71.1l-1.17 1.988-5.7 9.66-.987-.578-3-1.763-3-1.763-.987-.578L43.419 68l1.156-1.974 9.011-15.286.705-1.2a3.984 3.984 0 0 1 5.471-1.41l1.072.635a4 4 0 0 1 1.438 5.469z"/>
+                <path id="Path_1546" data-name="Path 1546" class="cls-4" d="m41.924 85.3-4.809-2.834 1.368-3.822 6.007 3.539z"/>
+                <path id="Line_138" data-name="Line 138" class="cls-5" transform="translate(37.99 84.059)" d="M1.354 0 0 2.299"/>
+                <path id="Line_139" data-name="Line 139" class="cls-5" transform="translate(53.6 50.751)" d="m0 0 7.967 4.682"/>
+                <path id="Line_140" data-name="Line 140" class="cls-5" transform="translate(41.487 58.409)" d="M12.959 0 0 22.012"/>
+            </g>
+        </g>
+    </g>
+</svg>

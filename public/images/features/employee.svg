@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectangle_10208" data-name="Rectangle 10208" class="cls-1" transform="translate(770 1768)" d="M0 0h120v120H0z"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:#fff}
+        </style>
+    </defs>
+    <g id="Mask_Group_91" data-name="Mask Group 91" transform="translate(-770 -1768)" style="clip-path:url(#clip-path)">
+        <g id="browsejob" transform="translate(769.397 1767.096)">
+            <path id="Path_1652" data-name="Path 1652" class="cls-1" d="M112.945 120H8.261A7.669 7.669 0 0 1 .6 112.342V9.467a7.669 7.669 0 0 1 7.661-7.658h104.684a7.669 7.669 0 0 1 7.655 7.658v102.875a7.669 7.669 0 0 1-7.655 7.658zM8.261 6.633a2.831 2.831 0 0 0-2.834 2.834v102.875a2.831 2.831 0 0 0 2.834 2.834h104.684a2.831 2.831 0 0 0 2.834-2.834V9.467a2.831 2.831 0 0 0-2.834-2.834z"/>
+            <path id="Path_1653" data-name="Path 1653" class="cls-1" d="M25.628 50.653A14.472 14.472 0 1 1 40.1 36.181a14.515 14.515 0 0 1-14.472 14.472zm0-24.121a9.648 9.648 0 1 0 9.648 9.648 9.677 9.677 0 0 0-9.648-9.647z"/>
+            <path id="Rectangle_10205" data-name="Rectangle 10205" class="cls-1" transform="translate(47.638 28.342)" d="M0 0h52.462v4.824H0z"/>
+            <path id="Rectangle_10206" data-name="Rectangle 10206" class="cls-1" transform="translate(47.638 41.005)" d="M0 0h33.769v4.824H0z"/>
+            <path id="Path_1654" data-name="Path 1654" class="cls-1" d="M25.628 97.085A14.472 14.472 0 1 1 40.1 82.613a14.515 14.515 0 0 1-14.472 14.472zm0-24.121a9.648 9.648 0 1 0 9.648 9.648 9.677 9.677 0 0 0-9.648-9.647z"/>
+            <path id="Path_1655" data-name="Path 1655" class="cls-1" d="M69.889 103.96a26.533 26.533 0 1 1 26.533-26.533 26.572 26.572 0 0 1-26.533 26.533zm0-48.181A21.709 21.709 0 1 0 91.6 77.487a21.733 21.733 0 0 0-21.711-21.708z"/>
+            <path id="Rectangle_10207" data-name="Rectangle 10207" class="cls-1" transform="rotate(-50.441 144.124 -44.567)" d="M0 0h4.824v29.549H0z"/>
+        </g>
+    </g>
+</svg>

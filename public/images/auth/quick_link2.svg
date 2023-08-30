@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectangle_1570" data-name="Rectangle 1570" transform="translate(201 251)" style="stroke:#707070;fill:#2d9735" d="M0 0h80v80H0z"/>
+        </clipPath>
+        <style>
+            .cls-3{fill:#2d9735}
+        </style>
+    </defs>
+    <g id="Mask_Group_19" data-name="Mask Group 19" transform="translate(-201 -251)" style="clip-path:url(#clip-path)">
+        <g id="browsejob" transform="translate(201 251.603)">
+            <path id="Path_580" data-name="Path 580" class="cls-3" d="M75.1 79.4H5.307A5.113 5.113 0 0 1 .2 74.291V5.709A5.113 5.113 0 0 1 5.307.6H75.1a5.113 5.113 0 0 1 5.1 5.109v68.582a5.113 5.113 0 0 1-5.1 5.109zM5.307 3.819a1.887 1.887 0 0 0-1.89 1.89v68.582a1.887 1.887 0 0 0 1.889 1.889H75.1a1.887 1.887 0 0 0 1.889-1.889V5.709a1.887 1.887 0 0 0-1.889-1.89z" transform="translate(-.201 -.603)"/>
+            <path id="Path_581" data-name="Path 581" class="cls-3" d="M13.367 26.533a9.648 9.648 0 1 1 9.648-9.648 9.677 9.677 0 0 1-9.648 9.648zm0-16.08a6.432 6.432 0 1 0 6.433 6.431 6.451 6.451 0 0 0-6.433-6.432z" transform="translate(3.317 6.03)"/>
+            <path id="Rectangle_1566" data-name="Rectangle 1566" class="cls-3" transform="translate(31.357 17.688)" d="M0 0h34.975v3.216H0z"/>
+            <path id="Rectangle_1567" data-name="Rectangle 1567" class="cls-3" transform="translate(31.357 26.131)" d="M0 0h22.513v3.216H0z"/>
+            <path id="Path_582" data-name="Path 582" class="cls-3" d="M13.367 42.01a9.648 9.648 0 1 1 9.648-9.648 9.677 9.677 0 0 1-9.648 9.648zm0-16.08a6.432 6.432 0 1 0 6.433 6.432 6.451 6.451 0 0 0-6.433-6.432z" transform="translate(3.317 21.508)"/>
+            <path id="Rectangle_1568" data-name="Rectangle 1568" class="cls-3" transform="translate(31.357 48.643)" d="M0 0h34.975v3.216H0z"/>
+            <path id="Rectangle_1569" data-name="Rectangle 1569" class="cls-3" transform="translate(31.357 57.085)" d="M0 0h22.513v3.216H0z"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+    <g data-name="Group 1049">
+        <path data-name="Rectangle 10311" style="fill:none" d="M0 0h28v28H0z"/>
+        <g data-name="Group 1048">
+            <path data-name="Ellipse 142" d="M11 1a10 10 0 1 0 10 10A10.011 10.011 0 0 0 11 1m0-1A11 11 0 1 1 0 11 11 11 0 0 1 11 0z" transform="translate(3 3)" style="fill:#2d9735"/>
+            <path data-name="Polygon 14" d="M4.5 0 9 8H0z" transform="rotate(-30 24.77 -8.203)" style="fill:#2d9735"/>
+        </g>
+    </g>
+</svg>

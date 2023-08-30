@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectangle_10158" data-name="Rectangle 10158" transform="translate(1033 1305)" style="stroke:#707070;fill:#404040" d="M0 0h70v70H0z"/>
+        </clipPath>
+        <style>
+            .cls-3{fill:#404040}
+        </style>
+    </defs>
+    <g id="Mask_Group_87" data-name="Mask Group 87" transform="translate(-1033 -1305)" style="clip-path:url(#clip-path)">
+        <g id="_005-blog" data-name="005-blog" transform="translate(1030.647 1302.352)">
+            <path id="Path_1615" data-name="Path 1615" class="cls-3" d="M9.412 11.765h2.353v2.353H9.412z"/>
+            <path id="Path_1616" data-name="Path 1616" class="cls-3" d="M14.118 11.765h2.353v2.353h-2.353z"/>
+            <path id="Path_1617" data-name="Path 1617" class="cls-3" d="M18.824 11.765h2.353v2.353h-2.353z"/>
+            <path id="Path_1618" data-name="Path 1618" class="cls-3" d="M24.706 23.53H10.588a1.176 1.176 0 0 0-1.176 1.176v11.765a1.176 1.176 0 0 0 1.176 1.176h14.118a1.176 1.176 0 0 0 1.176-1.176V24.706a1.176 1.176 0 0 0-1.176-1.176zM23.53 35.295H11.765v-9.412H23.53z"/>
+            <path id="Path_1619" data-name="Path 1619" class="cls-3" d="M30.589 23.53h4.706v2.353h-4.706z"/>
+            <path id="Path_1620" data-name="Path 1620" class="cls-3" d="M37.648 23.53h18.824v2.353H37.648z"/>
+            <path id="Path_1621" data-name="Path 1621" class="cls-3" d="M30.589 28.236h25.883v2.353H30.589z"/>
+            <path id="Path_1622" data-name="Path 1622" class="cls-3" d="M30.589 32.942h11.765v2.353H30.589z"/>
+            <path id="Path_1623" data-name="Path 1623" class="cls-3" d="M44.707 32.942h7.059v2.353h-7.059z"/>
+            <path id="Path_1624" data-name="Path 1624" class="cls-3" d="M9.412 42.354h16.471v2.353H9.412z"/>
+            <path id="Path_1625" data-name="Path 1625" class="cls-3" d="M9.412 47.06h16.471v2.353H9.412z"/>
+            <path id="Path_1626" data-name="Path 1626" class="cls-3" d="M9.412 51.766h16.471v2.353H9.412z"/>
+            <path id="Path_1627" data-name="Path 1627" class="cls-3" d="M9.412 56.472h16.471v2.353H9.412z"/>
+            <path id="Path_1628" data-name="Path 1628" class="cls-3" d="M69.413 22.46a5.725 5.725 0 0 0-5.882.026v-11.9A3.529 3.529 0 0 0 60 7.059H5.882a3.529 3.529 0 0 0-3.529 3.529v54.119a3.529 3.529 0 0 0 3.529 3.529H60a3.529 3.529 0 0 0 3.529-3.529V44.414L71.566 30.5a5.888 5.888 0 0 0-2.153-8.035zM45.7 56.472H32.942V44.707h16.834l-3.1 5.379a1.169 1.169 0 0 0-.155.664l.249 3.882zm1.517 2.08 1.176-2.038 2.038 1.176-1.176 2.038a1.176 1.176 0 1 1-2.038-1.177zm4.865-2.626L49.1 54.2l-.181-2.824 5.7 3.294zM56 52.749l-2.038-1.176 8.823-15.283-2.038-1.176L51.923 50.4l-2.037-1.18 10-17.32L66 35.429zm5.059-22.888.588-1.018 6.118 3.529-.588 1.019zM5.882 9.412H60a1.176 1.176 0 0 1 1.176 1.176v5.92H4.706v-5.92a1.176 1.176 0 0 1 1.176-1.176zm55.3 55.3A1.177 1.177 0 0 1 60 65.884H5.882a1.176 1.176 0 0 1-1.176-1.176V18.862h56.472v6.1L51.135 42.354h-19.37a1.176 1.176 0 0 0-1.176 1.176v14.118a1.176 1.176 0 0 0 1.176 1.176H44.73A3.529 3.529 0 0 0 51.3 60.9l1.586-2.748 3.482-1.722a1.176 1.176 0 0 0 .5-.471l4.317-7.474zm8.353-35.388-.588 1.019-6.118-3.529.588-1.019a3.531 3.531 0 0 1 6.118 3.529z"/>
+        </g>
+    </g>
+</svg>

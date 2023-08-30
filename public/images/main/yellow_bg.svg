@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="599" viewBox="0 0 1920 599">
+    <defs>
+        <linearGradient id="a" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f5cb58"/>
+            <stop offset="1" stop-color="#e4b73d"/>
+        </linearGradient>
+    </defs>
+    <g data-name="Group 1036">
+        <path data-name="Rectangle 10210" transform="translate(0 1)" style="fill:#f5cb58" d="M0 0h1920v598H0z"/>
+        <path data-name="Path 1659" d="M-4806-16487h624.671L-4806-15891.723z" transform="translate(4806 16488)" style="fill:#e8bb43"/>
+        <path data-name="Path 1660" d="M0 0h551L0 599z" transform="rotate(180 960 299.5)" style="fill:url(#a)"/>
+    </g>
+</svg>

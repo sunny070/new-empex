@@ -1,0 +1,11 @@
+apps:
+  - name: empex-queue
+    script: artisan
+    exec_mode: fork
+    # interpreter: php
+    interpreter: ea-php81
+    instances: 1
+    args:
+      - queue:work
+      - --tries=5
+      - --sleep=1

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="51">
+    <defs>
+        <style>
+            .cls-2{fill:#2d9736}.cls-3{fill:#dbdbdb}.cls-4{fill:none}
+        </style>
+    </defs>
+    <g id="Group_738" data-name="Group 738" transform="translate(-893 -269)">
+        <g id="Rectangle_3823" data-name="Rectangle 3823" transform="translate(893 269)" style="fill:#fff;stroke:#dbdbdb">
+            <rect width="80" height="51" rx="6" style="stroke:none"/>
+            <rect class="cls-4" x=".5" y=".5" width="79" height="50" rx="5.5"/>
+        </g>
+        <path id="Rectangle_3824" data-name="Rectangle 3824" class="cls-2" d="M6 0h68a6 6 0 0 1 6 6v4H0V6a6 6 0 0 1 6-6z" transform="translate(893 270)"/>
+        <rect id="Rectangle_3825" data-name="Rectangle 3825" class="cls-2" width="20" height="3" rx="1.5" transform="translate(900 286)"/>
+        <rect id="Rectangle_3826" data-name="Rectangle 3826" class="cls-3" width="43" height="3" rx="1.5" transform="translate(900 295)"/>
+        <rect id="Rectangle_3827" data-name="Rectangle 3827" class="cls-3" width="41" height="3" rx="1.5" transform="translate(900 301)"/>
+        <rect id="Rectangle_3828" data-name="Rectangle 3828" class="cls-3" width="20" height="3" rx="1.5" transform="translate(900 310)"/>
+        <path id="Rectangle_3829" data-name="Rectangle 3829" class="cls-3" transform="translate(953 301)" d="M0 0h12v12H0z"/>
+        <g id="account_circle_black_24dp" transform="translate(953 285)">
+            <path id="Path_850" data-name="Path 850" class="cls-4" d="M0 0h12v12H0z"/>
+            <path id="Path_851" data-name="Path 851" class="cls-3" d="M7 2a5 5 0 1 0 5 5 5 5 0 0 0-5-5zm0 1.5A1.5 1.5 0 1 1 5.5 5 1.5 1.5 0 0 1 7 3.5zm0 7.1a3.6 3.6 0 0 1-3-1.61c.015-1 2-1.54 3-1.54s2.985.55 3 1.54a3.6 3.6 0 0 1-3 1.61z" transform="translate(-1 -1)"/>
+        </g>
+    </g>
+</svg>
